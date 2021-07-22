@@ -14,5 +14,8 @@ func main() {
 	)
 
 	// 02. In màn hình
+	mySlice = append(mySlice, 29)
+	mySlice = append(mySlice, 02)
+	mySlice = append(mySlice, 1991)
 	fmt.Println("mySlice: ", mySlice)
 }
